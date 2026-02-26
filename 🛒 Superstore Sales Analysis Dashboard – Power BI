@@ -1,0 +1,63 @@
+📌 Project Overview
+
+An end-to-end Business Intelligence dashboard developed using Power BI to analyze Superstore sales performance across brands, regions, and customer segments.
+
+The dashboard provides real-time insights into Sales, Profit, Transactions, Return Rate, and Revenue vs Target, enabling data-driven strategic decisions.
+
+🎯 Business Objectives
+
+Analyze monthly sales & profit trends
+
+Compare actual revenue against targets
+
+Identify top-performing brands
+
+Evaluate country-wise revenue contribution
+
+Monitor return rate and profit margins
+📊 Dashboard Highlights
+🔹 Current Month KPIs
+
+🧾 Transactions: 18,325 (+5.69% vs goal)
+
+💰 Profit: 71.68K (+5.61% vs goal)
+
+🔄 Return Rate: 4%
+
+🔹 Revenue vs Target
+
+🎯 Target Revenue: 4.66M
+
+📊 Achieved Revenue: 2.33M
+
+~50% of overall target achieved
+
+🔹 Country Performance
+
+🇺🇸 USA – Highest revenue contributor
+
+🇲🇽 Mexico – Second highest
+
+🔹 Brand-Level Analysis
+
+Top brands: Hermanos, Tell Tale, Ebony, Tri-State
+
+Average Profit Margin: ~59.92%
+
+Strong correlation between high transactions and high profitability
+
+🔹 Weekly Revenue Trend
+
+Stable revenue distribution
+
+Peak performance observed mid-month
+
+Slight fluctuations toward month-end
+🛠 Tools & Technologies Used
+Tool	Purpose
+Power BI Desktop	Dashboard Development
+Power Query	Data Cleaning & Transformation
+DAX	KPI & Measure Calculations
+Data Modeling	Relationship Management
+
+🇨🇦 Canada – Lowest contribution
